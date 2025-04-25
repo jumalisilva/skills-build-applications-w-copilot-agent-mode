@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-2=q7ve0b&pjbr&wxxrz5zl(_rf=47ifvd5f6csz_j(1_18z((2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'bookish-carnival-r4g7wq4q6999357r4-8000.app.github.dev']
 
 
 # Application definition
